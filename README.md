@@ -15,9 +15,9 @@
 
 ## Plain Language Summary
 
-Bioluminescence (the ability of living beings to emit light) comes in many forms, some examples would be the glow emitted by fireflies, the lure of an anglerfish, and even some types of jellyfish. All of these types of bioluminescence happen quickly fractions of a second to maybe a couple minutes and are limited to the area immediately around whatever is emitting the light.
+Bioluminescence (the ability of living beings to emit light) comes in many forms, some examples would be the glow emitted by fireflies, the lure of an anglerfish, and even some types of jellyfish. All of these types of bioluminescence happen quickly, fractions of a second to maybe a couple minutes and are limited to the area immediately around whatever is emitting the light.
 
-Milky Seas are a rare form of bioluminescence where the ocean will glow for days to months at a time over a region hundreds of miles wide. This phenomena has captured the imagination of scientists, sailors, explorers, and writers for hundreds of years. Jules Verne wrote this about them in his classic novel ***20,000 Leagues Under The Sea***:
+Milky Seas are a rare form of bioluminescence where the ocean will glow for days to months at a time over a region hundreds of miles wide. This phenomena has captured the imagination of scientists, sailors, explorers, and writers for hundreds of years. Jules Verne wrote this about them in his classic novel ***20,000 Leagues Under The Sea*** in 1869:
 
 > Near seven o'clock in the evening, the Nautilus lay half submerged, navigating
 in the midst of milky white waves. As far as the eye could see, the ocean
@@ -30,7 +30,17 @@ comparison with the whiteness of these waters.
 
 > "That's called a milk sea," I told him, "a vast expanse of white waves often seen along the coasts of Amboina and in these waterways."
 
+While some have viewed this phenomena as a fantastical sight others viewed it as an omen of the end times such as Capt. Kingman of the *Shooting Star* during his encounter with a Milky Sea in 1854:
 
+> The whole appearance of the ocean was like a plain covered with snow. There was scarce a cloud in the heavens, yet the sky (...) appeared as black as if a storm was raging (...) The scene was one of awful grandeur; the sea having turned to phosphorous, and the heavens being hung in blackness, and the stars going out, seemed to indicate that all nature was preparing for that last grand conflagration which we are taught to believe is to annihilate this material world.
+
+Below are some photos taken by the crew of the yacht *Ganesha* in 2019, the only known people to have ever photographed a Milky Sea from a boat. Everything in these photos is illuminated by the Milky Sea they were passing through. Typically being out on the open ocean at night is incredibly dark with the only light being the moon and stars above, and it is no surprise people have been astonished by the sight of the ocean suddenly glowing so bright that people have been able to read books with nothing but the light of the ocean.
+
+| ![](./MEDIA/Ganesha_MilkySeaPhoto_Miller2022.png) |
+| :--: |
+| |
+
+Nowadays we know that Milky Seas are one of the largest biological phenomena on Earth. Despite their size the leading theory is that they are caused by large numbers of bacteria that live in the ocean. When enough of these bacteria are packed together in a small enough area they begin to glow. 
 
 ## Scientific Summary
 
@@ -57,7 +67,33 @@ With the expanded ability to locate and study Milky Seas [Miller et al. 2011](ht
 
 ## First Hand Accounts
 
-**Reporter:** Capt. Raphael Semmes (CSS Alabama), *Memoirs of Service Afloat, During the War Between the States*, p. 732
+**Reporter:** Capt. Newland (Kelfall)
+
+**Source:** *Observations on the Milky Appearance of Some Spots of Water in the Sea; By the Same*
+
+**Date:** August, 1769
+
+**Location:** Near Socotra
+
+**Account:** (...) I discovered all of a sudden, about 8 o'clock in the evening, the water all round me as white as milk (intermixed with streaks or serpentine lines of black water). I immediately drew a bucket of it, and carried it to the light, where it appeared just as other water; I drew several more, and found it the same (...) The next evening about 7 o'clock the water appeared again as white as before.
+
+---
+
+**Reporter:** Capt. Kingman (Shooting Star)
+
+**Source:** *Herring and Watson 1993, Milky Seas: A Bioluminescent Puzzle*
+
+**Date:** 1854
+
+**Location:** South of Java
+
+**Account:** The whole appearance of the ocean was like a plain covered with snow. There was scarce a cloud in the heavens, yet the sky (...) appeared as black as if a storm was raging (...) The scene was one of awful grandeur; the sea having turned to phosphorous, and the heavens being hung in blackness, and the stars going out, seemed to indicate that all nature was preparing for that last grand conflagration which we are taught to believe is to annihilate this material world.
+
+---
+
+**Reporter:** Capt. Raphael Semmes (CSS Alabama)
+
+**Source:** *Memoirs of Service Afloat, During the War Between the States*, p. 732
 
 **Date:** January 30th, 1864
 
@@ -67,7 +103,33 @@ With the expanded ability to locate and study Milky Seas [Miller et al. 2011](ht
 
 ---
 
+**Reporter:** Capt. I. L. Stout (S.S. Rhexenor)
+
+**Source:** *Smith 1931, Phosphorescence of the Sea*
+
+**Date:** August 12th, 1928 ~8 p.m. local time until ~4 a.m. local time
+
+**Location:** Socotra ~(12.5N, 54.5E)
+
+**Account:** The whole of the sea from horizon to horizon became frequently covered with a milky appearance. Although a sea and swell of force 6 [large wind driven waves] and a wind of S.W. force 7 [~35 miles per hour] was the weather at the time, the sea dropped to a calm and the swell diminished considerably, yet the wind remained the same, whilst the vessel was in these patches.
+
+---
+
+**Reporter:** Capt. J. Hatfield (S.S. Laomedon)
+
+**Source:** *Smith 1931, Phosphorescence of the Sea*
+
+**Date:** July 31st, 1929
+
+**Location:** 12.36N, 56.46E
+
+**Account:** Wind S.S.W. force 6 [~28 miles per hour], with rough sea and swell; at 19.00 when darkness set in, the ship appeared to be surrounded by a luminous halo reflected frm the water. By 20.00 the water had turned a greyish white colour which, however, did not appear to be caused by surface phosphorescence as there was little or no sparkle from the bow wave. This discolouration extended to the horizon in all directions giving it a misty appearance except between S.S.E. and W.S.W. where the horizon remained clearly defined. This phenomenon continued until 21.50 when it gradually closed in round the ship again and finally disappeared leavin the sea a normal colour with no phosphorescence. While the ship was in this discoloured water, the sea appeared to calm down considerably though the wind remained force 6.
+
+---
+
 **Reporter:** Anonymous, US Navy (USN)
+
+**Source:** *Miller et al. 2021, Honing in on Bioluminescent Milky Seas from Space*
 
 **Date:** 1968, Midnight-4 A.M. Local Time
 
@@ -79,6 +141,8 @@ With the expanded ability to locate and study Milky Seas [Miller et al. 2011](ht
 
 **Reporter:** Lt. Chris Tolton & Reid Hinson, both Retired US Navy
 
+**Source:** *Miller et al. 2021, Honing in on Bioluminescent Milky Seas from Space*
+
 **Date:** Late May - Early June 1980, ~7:30-11:30 PM Local Time
 
 **Location:** Arabian Sea, near Socotra
@@ -88,6 +152,8 @@ With the expanded ability to locate and study Milky Seas [Miller et al. 2011](ht
 ---
 
 **Reporter:** CDR Thomas Evanoff (Retired US Navy)
+
+**Source:** *Miller et al. 2021, Honing in on Bioluminescent Milky Seas from Space*
 
 **Date:** ~April - June 1990
 
@@ -99,11 +165,15 @@ With the expanded ability to locate and study Milky Seas [Miller et al. 2011](ht
 
 **Reporter:** Joyce and Don Green (private mariners of the yachy *Windy Thoughts*)
 
+**Source:** *Miller et al. 2021, Honing in on Bioluminescent Milky Seas from Space*
+
 **Date:** First week of August 1991
 
-**Location:** Off coase of New Guinea, Arafura Sea ~(10S, 135E)
+**Location:** Off coast of New Guinea, Arafura Sea ~(10S, 135E)
 
-**Account:**
+**Account:** Suddenly, my senses were overcome with the most astounding sight! The sea was alive with a vast bright green glow of bioluminescence that was often experienced in the boat's wake---but this was an entirely new phenomenon. *Windy Thoughts* sailed into a sea that was literally alight from horizon to horizon with a bright luminous green glow as far as the eye could see. Amazingly, the sky around us was aglow as well. All was dead quiet, the wind and seas calmed considerably. And yet our speed increased as *Windy Thoughts* sailed along in silence, not a sound of a wave breaking on her hull, not even the sound of the bow wave as she cut through the water---and not a whisper of wind was heard. It was surreal.
+
+
 
 
 ## Animated Figures From Poster
