@@ -5,7 +5,7 @@
 
 [Plain Language Summary](#plain-language-summary)
 
-[Scientific Overview](#scientific-summary)
+[Scientific Summary](#scientific-summary)
 
 [First Hand Accounts](#first-hand-accounts)
 
@@ -15,9 +15,15 @@
 
 ## Plain Language Summary
 
-Bioluminescence (the ability of living beings to emit light) comes in many forms, some examples would be the glow emitted by fireflies, the lure of an anglerfish, and even some types of jellyfish. All of these types of bioluminescence happen quickly, fractions of a second to maybe a couple minutes and are limited to the area immediately around whatever is emitting the light.
+Bioluminescence (the ability of living beings to emit light) comes in many shapes and forms across nature such as fireflies, glowing mushrooms, and the lure of an anglerfish. One of the largest and most mysterious forms of bioluminescence are Milky Seas, a rare form of bioluminescence where the ocean can glow for days to months at a time over areas the size of the states of New York or Pennsylvania.
 
-Milky Seas are a rare form of bioluminescence where the ocean will glow for days to months at a time over a region hundreds of miles wide. This phenomena has captured the imagination of scientists, sailors, explorers, and writers for hundreds of years. Jules Verne wrote this about them in his classic novel ***20,000 Leagues Under The Sea*** in 1869:
+Despite their massive size Milky Seas are believed to be caused by bacteria, some of the smallest organisms on Earth. The ocean is full of bacteria and some of these bacteria, when there is enough of them present in a small enough area, bioluminesce. This bacterial bioluminescence can be maintained in laboratory settings for days to weeks at a time, and in nature possibly months.
+
+| ![](./MEDIA/Example_TimeSpace_Scale_Bioluminescence.png) |
+| :--: |
+| <div align='justify'>Comparison between Milky Seas and other types of Bioluminescence. The hatched ovals are types of bioluminescence believed to be caused by the organisms in the similarly colored ovals.</div> |
+
+Milky Seas have been written about as a fantastical sight, haunted oceans, and the coming of the apocalypse. Jules Verne wrote this about them in his classic novel ***20,000 Leagues Under The Sea*** in 1869:
 
 > Near seven o'clock in the evening, the Nautilus lay half submerged, navigating
 in the midst of milky white waves. As far as the eye could see, the ocean
@@ -30,17 +36,68 @@ comparison with the whiteness of these waters.
 
 > "That's called a milk sea," I told him, "a vast expanse of white waves often seen along the coasts of Amboina and in these waterways."
 
-While some have viewed this phenomena as a fantastical sight others viewed it as an omen of the end times such as Capt. Kingman of the *Shooting Star* during his encounter with a Milky Sea in 1854:
+> "But, sir," said Conseil, "can you tell me what causes such an effect? for I suppose the water is not really turned into milk."
+
+> "No, my boy; and the whiteness which surprises you is caused only by the presence of myriads of infusoria, a sort of luminous little worm, gelatinous and without colour, of the thickness of a hair, and whose length is not more than seven-thousandths of an inch. These insects adhere to one another sometimes for several leagues."
+
+> "Several leagues!" exclaimed Conseil.
+
+> "Yes, my boy; and you need not try to compute the number of these infusoria. You will not be able, for, if I am not mistaken, ships have floated on these milk seas for more than forty miles."
+
+> Towards midnight the sea suddenly resumes its usual colour; but behind us, even to the limites of the horizon, the sky reflected the whitened waves, and for a long time seemed impregnated with the vague glimmerings of an aurora borealis.
+
+Captain Kingman of the *Shooting Star* wrote about his 1854 encounter with a Milky Sea in very different terms than Jules Verne however:
 
 > The whole appearance of the ocean was like a plain covered with snow. There was scarce a cloud in the heavens, yet the sky (...) appeared as black as if a storm was raging (...) The scene was one of awful grandeur; the sea having turned to phosphorous, and the heavens being hung in blackness, and the stars going out, seemed to indicate that all nature was preparing for that last grand conflagration which we are taught to believe is to annihilate this material world.
 
-Below are some photos taken by the crew of the yacht *Ganesha* in 2019, the only known people to have ever photographed a Milky Sea from a boat. Everything in these photos is illuminated by the Milky Sea they were passing through. Typically being out on the open ocean at night is incredibly dark with the only light being the moon and stars above, and it is no surprise people have been astonished by the sight of the ocean suddenly glowing so bright that people have been able to read books with nothing but the light of the ocean.
+Captain Kingman's account relays an imporant feature of Milky Seas, how bright they are. Typically when you're out on a boat in the middle of the ocean at night the only light source aside from the moon and stars is whatever you brought with you. Many eye-witness accounts of Milky Seas have reported the light coming from the ocean being so bright that they could no longer see the stars in the night sky and that it was possible to read books on the deck of the ship with nothing but the light of ocean around them to light up the night.
+
+In 2019 the crew of the yacht *Ganesha* took the only known photos of a Milky Sea, and these photos (shown below) reveal just how bright Milky Seas can be. Everything in those photos is illuminated by the glowing ocean surrounding the *Ganesha*.
 
 | ![](./MEDIA/Ganesha_MilkySeaPhoto_Miller2022.png) |
 | :--: |
 | |
 
-Nowadays we know that Milky Seas are one of the largest biological phenomena on Earth. Despite their size the leading theory is that they are caused by large numbers of bacteria that live in the ocean. When enough of these bacteria are packed together in a small enough area they begin to glow. 
+Milky Seas are actually so bright that they are visible from space using special low-light cameras mounted on satellites, such as the VIIRS Day/Night Band (DNB). Historically all knowledge of Milky Seas has come from random encounters by ships, but with recent advances in satellite technology the ability to study Milky Seas has greatly expanded. We can now measure the true size of Milky Sea events as well as understand how long they really last.
+
+| ![](./MEDIA/NASA_WORLDVIEW_2019_JAVA.gif) |
+| :--: |
+| <div align='justify'>Satellite imagery of a Milky Sea event that happened near Java (an island NW of Australia) in the summer of 2019. This Milky Sea lasted until at least mid-September and was 100,000+ km<sup>2</sup> in size, approximately the size of Pennsylvania. It disappears at the end of the loop due to the moon being so bright the satellite can no longer detect the Milky Sea. The images are taken from NASA Worldview. </div> |
+
+With the power of modern technology and the hard work of researchers in the past who carefully catalogued ship encounters with Milky Seas we have an idea of when and where they occur. Most Milky Seas happen in the northern Indian Ocean between Somalia and India or within the Maritime Continent, the large islands just north of Australia. Our satellite based cameras do have the drawback that they cannot see Milky Seas when the moon is close to being full, the light of the moon is so bright it outshines the light being emitted by the ocean.
+
+| ![](./MEDIA//Herring_and_Watson_1993_Figure1_Global_Distribution_of_Milky_Seas.png) |
+| :--: |
+| <div align='justify'>Distribution of Milky Sea sightings by british sailors in the 20th century, taken from [Herring and Watson 1993](https://digital.nmla.metoffice.gov.uk/IO_57f40079-b930-4213-a29c-fcf84951ff11/)</div> |
+
+From both historical and modern attempts to catalogue Milky Seas we know that Milky Seas are quite rare, with typically only 1 Milky Sea happening a year around the globe. Because of this any attempt to study Milky Seas in person requires a way to predict when and where the next Milky Sea will occur.
+
+In order to predict Milky Seas when we know little about them other than when and where they typically occur we have to make some assumptions. Because Milky Seas are so large we assumed that they occur when the availability of food and nutrients is high. In the ocean the availability of food and nutrients is usually controlled by how close to land you are, the weather, and the behavior of the ocean itself.
+
+Because the interactions between the atmosphere and the ocean which control the availability of food and nutrients can be quite complex and vary depending upon where you are interested in working them out we decided to focus on a single region, namely the waters just south of the island of Java (an island NW of Austrlia and highlighted on the map below).
+
+| ![](./MEDIA/Region_Of_Interst.png) |
+| :--: |
+| <div align='justify'>Region of predictions/interest. Java, the large island that takes up most of the northern edge of the red box is a historical hot spot of Milky Sea encounters and is the location of the largest and longest lasting Milky Sea we know about. </div> |
+
+Using known relationships between the atmosphere, ocean, and biology we built a simple predictive model for our region of interest. As the first predictive model for Milky Seas it was intentionally kept simple, if a weather pattern or ocean system was in the right state to increase the availability of food and nutrients in our region of interest the predicted availability of food went up, if a weather pattern or ocean system was in the wrong state the predicted availability of food went down. 
+
+This model would assign individual days a number between -5 and 5 with the higher the number the higher the predicted food and nutrient availability. We then chose the time periods where the model assigned a value of 3 or greater to multiple days in a row from 2012-2021, this ended up being the top 15% of days. We classified these days are time periods where Milky Seas are likely.
+
+| ![](./MEDIA/Index_Timeline.png) |
+| :--: |
+| <div align='justify'> The time periods predicted by our model as having a high likelihood of a Milky Sea occurring. A 20-day smooth was applied to the time series data. </div> |
+
+Using our model we get 11 time periods where Milky Seas are likely near Java between 2012 and 2021. The model correctly predicted the only known Milky Sea that occurred near Java over this time period, July-September of 2019. Based on these results the satellite imagery was manually reexamined and in doing so a new Milky Sea event was found in late August 2017 (Aug 20th-27th).
+
+| ![](./MEDIA/2017_SquareOnly_GIF.gif) |
+| :--: |
+| <div align='justify'> VIIRS DNB imagery of the Milky Sea event discovered in August 2017 based on the predictions of our model. The event is outlined with a red box for clarity. </div> |
+
+**This is the first time a Milky Sea has ever been successfully predicted rather than found through a random encounter or manually examining satellite imagery in the hope of finding one.** This prediction is an important first step towards planning an expedition out to a Milky Sea to sample the waters and better understand this phenomena which has fascinated people for at least hundreds of years.
+
+
+[Click Me To Read Interesting First Hand Accounts of Milky Seas](#first-hand-accounts)
 
 ## Scientific Summary
 
