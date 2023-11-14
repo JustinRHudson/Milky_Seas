@@ -9,7 +9,7 @@
 
 [First Hand Accounts](#first-hand-accounts)
 
-[Animated Figures From Poster](#animated-figures-from-poster)
+[Figures From Poster](#figures-from-poster)
 
 [References](#references)
 
@@ -231,11 +231,24 @@ With the expanded ability to locate and study Milky Seas [Miller et al. 2011](ht
 **Account:** Suddenly, my senses were overcome with the most astounding sight! The sea was alive with a vast bright green glow of bioluminescence that was often experienced in the boat's wake---but this was an entirely new phenomenon. *Windy Thoughts* sailed into a sea that was literally alight from horizon to horizon with a bright luminous green glow as far as the eye could see. Amazingly, the sky around us was aglow as well. All was dead quiet, the wind and seas calmed considerably. And yet our speed increased as *Windy Thoughts* sailed along in silence, not a sound of a wave breaking on her hull, not even the sound of the bow wave as she cut through the water---and not a whisper of wind was heard. It was surreal.
 
 
-## Animated Figures From Poster
+## Figures From Poster
+
+| ![](./MEDIA/Example_TimeSpace_Scale_Bioluminescence.png) |
+| :--: |
+| <div align='justify'>  Comparison between Milky Seas and other forms of Bioluminescence. Milky Seas can last for months at a time and the largest known Milky Sea was so large it that it would have covered about half of the state of Colorado.  </div> |
 
 | ![](./MEDIA/NASA_WORLDVIEW_2019_JAVA.gif) |
 | :--: |
 | <div align='justify'> Satellite imagery of the largest and longest lasting Milky Sea we have observed. This Milky Sea lasted for about 2 months and was so large that it was about half the size of Colorado. The event disappears at the end of the loop because the full moon is so bright that the satellite can no longer see the Milky Sea. Images taken from NASA Worldview. </div> |
+
+| ![](./MEDIA/Ganesha_MilkySeaPhoto_Miller2022.png) |
+| :--: |
+| <div align='justify'> These photos taken by the crew of yacht *Ganesha* are the only known photographs of a Milky Sea not taken by a satellite. Everything in these photos is illuminated by the Milky Sea. Photos taken from Miller 2022. </div> |
+
+| ![](./MEDIA/Index_Timeline.png) |
+| :--: |
+| <div align = 'justify'> Predictions of when to look for Milky Seas based on our predictive model. The time periods in green represent the top 15% of days predicted by our model for food availability of food/nutrients. This model correctly predicted the 2019 Milky Sea event in our region of interest. </div> |
+
 
 | ![](./MEDIA/2017_SquareOnly_GIF.gif) |
 | :--: |
