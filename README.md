@@ -94,22 +94,22 @@ Using our model we get 11 time periods where Milky Seas are likely near Java bet
 | :--: |
 | <div align='justify'> VIIRS DNB imagery of the Milky Sea event discovered in August 2017 based on the predictions of our model. The event is outlined with a red box for clarity. </div> |
 
-**This is the first time a Milky Sea has ever been successfully predicted rather than found through a random encounter or manually examining satellite imagery in the hope of finding one.** This prediction is an important first step towards planning an expedition out to a Milky Sea to sample the waters and better understand this phenomena which has fascinated people for at least hundreds of years.
+**This is the first time a Milky Sea has ever been successfully predicted rather than found through a random encounter or manually examining satellite imagery in the hope of finding one.** This prediction is an important first step towards planning an expedition out to a Milky Sea to sample the waters and better understand this phenomena which has fascinated people for hundreds if not thousands of years.
 
 
-[Click Me To Read Interesting First Hand Accounts of Milky Seas](#first-hand-accounts)
+### [Click Me To Read Eyewitness Accounts of Milky Seas](#first-hand-accounts)
 
 ## Scientific Summary
 
-Milky Seas are a rare phenomena wherein the ocean surface is illuminated for days to months at a time over areas up to 100,000+ km<sup>2</sup>. The typical eye-witness account of Milky Seas describes the ocean surface glowing from horizon to horizon a whitish-green hue. The leading theory on Milky Seas is that they are biological in origin, caused by bacteria at critical population densities to achieve quorum sensing over large areas. Below is a Stommel-diagram type comparison between Milky Seas and other forms of bioluminescence.
+Milky Seas are a rare phenomena wherein the ocean surface is illuminated for days to months at a time over areas up to 100,000+ km<sup>2</sup>. The typical eye-witness account of Milky Seas describes the ocean surface glowing from horizon to horizon a whitish to green hue. The leading theory on Milky Seas is that they are biological in origin, caused by bacteria at critical population densities to achieve quorum sensing over large areas. Below is a Stommel-diagram type comparison between Milky Seas and other forms of bioluminescence.
 
 | ![](./MEDIA/Example_TimeSpace_Scale_Bioluminescence.png) |
 | :--: |
-| Comparison between Milky Seas and other types of Bioluminescence. Milky Seas occur over spatial and temporal scales larger than any other type of bioluminescence. The hatched ellipses are macroscopic behavior of the organisms in the similarly colored ellipse. |
+| <div align='justify'>Comparison between Milky Seas and other types of Bioluminescence. Milky Seas occur over spatial and temporal scales larger than any other type of bioluminescence. The hatched ellipses are macroscopic behavior of the organisms in the similarly colored ellipse. </div> |
 
 | ![](./MEDIA/Herring_and_Watson_1993_Figure1_Global_Distribution_of_Milky_Seas.png) |
 | :--: |
-| Global distribution of Milky Sea sightings as reported in Herring and Watson 1993. The Majority of events occur in the northwest Indian Ocean as well as around the Maritime Continent region. Figure taken from [Herring and Watson 1993](https://digital.nmla.metoffice.gov.uk/IO_57f40079-b930-4213-a29c-fcf84951ff11/). |
+| <div align='justify'>Global distribution of Milky Sea sightings as reported in Herring and Watson 1993. The Majority of events occur in the northwest Indian Ocean as well as around the Maritime Continent region. Figure taken from [Herring and Watson 1993](https://digital.nmla.metoffice.gov.uk/IO_57f40079-b930-4213-a29c-fcf84951ff11/).</div> |
 
 There has been scientific literature on Milky Seas published in English since at least 1772 ([Newland 1772](https://royalsocietypublishing.org/doi/10.1098/rstl.1772.0014)). Between 1772 and 1993 scientific understanding of Milky Seas advanced little beyond noting its likely biological origin and they occur largely in and around the Indian Ocean during the monsoon seasons. In 2005 it was shown that Milky Seas cast such a large and stable glow that space-borne low-light imagers, in this case the Defense Meteorlogical Satellite Program's Operational Line Scanner (DMSP OLS), can view them from space. 
 
@@ -220,7 +220,7 @@ With the expanded ability to locate and study Milky Seas [Miller et al. 2011](ht
 
 ---
 
-**Reporter:** Joyce and Don Green (private mariners of the yachy *Windy Thoughts*)
+**Reporter:** Joyce and Don Green (private mariners of the yacht *Windy Thoughts*)
 
 **Source:** *Miller et al. 2021, Honing in on Bioluminescent Milky Seas from Space*
 
@@ -231,9 +231,29 @@ With the expanded ability to locate and study Milky Seas [Miller et al. 2011](ht
 **Account:** Suddenly, my senses were overcome with the most astounding sight! The sea was alive with a vast bright green glow of bioluminescence that was often experienced in the boat's wake---but this was an entirely new phenomenon. *Windy Thoughts* sailed into a sea that was literally alight from horizon to horizon with a bright luminous green glow as far as the eye could see. Amazingly, the sky around us was aglow as well. All was dead quiet, the wind and seas calmed considerably. And yet our speed increased as *Windy Thoughts* sailed along in silence, not a sound of a wave breaking on her hull, not even the sound of the bow wave as she cut through the water---and not a whisper of wind was heard. It was surreal.
 
 
-
-
 ## Animated Figures From Poster
+
+| ![](./MEDIA/NASA_WORLDVIEW_2019_JAVA.gif) |
+| :--: |
+| <div align='justify'> Satellite imagery of the largest and longest lasting Milky Sea we have observed. This Milky Sea lasted for about 2 months and was so large that it was about half the size of Colorado. The event disappears at the end of the loop because the full moon is so bright that the satellite can no longer see the Milky Sea. Images taken from NASA Worldview. </div> |
+
+| ![](./MEDIA/2017_SquareOnly_GIF.gif) |
+| :--: |
+| <div align='justify'> Satellite imagery of the Milky Sea discovered near Java with the help of our predictive model. This Milky Sea, outlined in the red box, lasted for about 7 days and is about 100 km wide, this is about the distance from Fort Collins to downtown Denver. </div>
+
 
 ## References
 
+1. Haddock, S. H. D., Moline, M. A. & Case, J. F. Bioluminescence in the Sea. Annu. Rev. Mar. Sci. 2, 443–493 (2010).
+
+2. Herring, P. J. & Watson, M. Milky seas: a bioluminescent puzzle. Marine Observer 22–30 (1993).
+
+3. Miller, S. D. Boat encounter with the 2019 Java bioluminescent milky sea: Views from on-deck confirm satellite detection. Proc. Natl. Acad. Sci. U.S.A. 119, e2207612119 (2022).
+
+4. Miller, S. D., Haddock, S. H. D., Elvidge, C. D. & Lee, T. F. Detection of a bioluminescent milky sea from space. Proc. Natl. Acad. Sci. U.S.A. 102, 14181–14184 (2005).
+
+5. Miller, S. D. et al. Honing in on bioluminescent milky seas from space. Sci Rep 11, 15443 (2021).
+
+6. Capt. Newland. XIII. Observations on the milky appearance of some spots of water in the sea; by the same. Phil. Trans. R. Soc. 62, 93–94 (1772).
+
+7. Smith, H. T. Phosphorescence Of The Sea. Marine Observer VIII, 230–234 (1931).
