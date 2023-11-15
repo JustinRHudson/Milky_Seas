@@ -3,9 +3,9 @@
 
 ## Directory
 
-[Plain Language Summary](#plain-language-summary)
+[Additional Information (Plain Language)](#additional-info-plain-language)
 
-[Scientific Summary](#scientific-summary)
+[Additional Information (For Scientists)](#additional-info-for-scientists)
 
 [First Hand Accounts](#first-hand-accounts)
 
@@ -13,7 +13,7 @@
 
 [References](#references)
 
-## Plain Language Summary
+## Additional Info (Plain Language)
 
 Bioluminescence (the ability of living beings to emit light) comes in many shapes and forms across nature such as fireflies, glowing mushrooms, and the lure of an anglerfish. One of the largest and most mysterious forms of bioluminescence are Milky Seas, a rare form of bioluminescence where the ocean can glow for days to months at a time over areas the size of the states of New York or Pennsylvania.
 
@@ -99,7 +99,7 @@ Using our model we get 11 time periods where Milky Seas are likely near Java bet
 
 ### [Click Me To Read Eyewitness Accounts of Milky Seas](#first-hand-accounts)
 
-## Scientific Summary
+## Additional Info (For Scientists)
 
 Milky Seas are a rare phenomena wherein the ocean surface is illuminated for days to months at a time over areas up to 100,000+ km<sup>2</sup>. The typical eye-witness account of Milky Seas describes the ocean surface glowing from horizon to horizon a whitish to green hue. The leading theory on Milky Seas is that they are biological in origin, caused by bacteria at critical population densities to achieve quorum sensing over large areas. Below is a Stommel-diagram type comparison between Milky Seas and other forms of bioluminescence.
 
@@ -107,19 +107,59 @@ Milky Seas are a rare phenomena wherein the ocean surface is illuminated for day
 | :--: |
 | <div align='justify'>Comparison between Milky Seas and other types of Bioluminescence. Milky Seas occur over spatial and temporal scales larger than any other type of bioluminescence. The hatched ellipses are macroscopic behavior of the organisms in the similarly colored ellipse. </div> |
 
+Milky Seas typically occur within the northwest Indian Ocean and Maritime Continent regions, although there have been eye-witness accounts all across the tropics and a few in the mid-latitude oceans. The Milky Sea sightings within the Indian Ocean basin are strongly linked to the monsoons of the region, commonly occurring during time periods and in regions where moonsoon driven upwelling is at a maximum.
+
 | ![](./MEDIA/Herring_and_Watson_1993_Figure1_Global_Distribution_of_Milky_Seas.png) |
 | :--: |
-| <div align='justify'>Global distribution of Milky Sea sightings as reported in Herring and Watson 1993. The Majority of events occur in the northwest Indian Ocean as well as around the Maritime Continent region. Figure taken from [Herring and Watson 1993](https://digital.nmla.metoffice.gov.uk/IO_57f40079-b930-4213-a29c-fcf84951ff11/).</div> |
+| <div align='justify'>Geographic distribution of historical Milky Sea sightings as reported in Herring and Watson 1993. The Majority of events occur in the northwest Indian Ocean as well as around the Maritime Continent region. Figure taken from [Herring and Watson 1993](https://digital.nmla.metoffice.gov.uk/IO_57f40079-b930-4213-a29c-fcf84951ff11/).</div> |
+| ![](./MEDIA/Satellite_Events_Plot.png) |
+| <div align='justify'> Geographic distribution of Milky Seas viewed with the low-light imagers aboard satellites. As with the historical distribution of eye-witness accounts they are located in and around the northwest Indian Ocean and the Maritime Continent region. Each red circle is an individual Milky Sea event. |
 
-There has been scientific literature on Milky Seas published in English since at least 1772 ([Newland 1772](https://royalsocietypublishing.org/doi/10.1098/rstl.1772.0014)). Between 1772 and 1993 scientific understanding of Milky Seas advanced little beyond noting its likely biological origin and they occur largely in and around the Indian Ocean during the monsoon seasons. In 2005 it was shown that Milky Seas cast such a large and stable glow that space-borne low-light imagers, in this case the Defense Meteorlogical Satellite Program's Operational Line Scanner (DMSP OLS), can view them from space. 
+The knowledge that Milky Seas are caused by bacterial bioluminescence and are connected to the monsoons of the Indian Ocean have been known since at least 1899 (Bernard 1899). Since then very little new information regarding Milky Seas has been discovered, save that due to how bright and large they are Milky Seas are visible via low-light imagers aboard satellites (Miller et al. 2005, Miller et al. 2021) such as the Visual Infrared Radiometer Suite (VIIRS) Day/Night Band (DNB). 
 
-| ![](./MEDIA/Miller2005_MilkySea.jpeg) |
+While low-light imagers have greatly expanded the ability to study Milky Seas they are currently unable to see Milky Seas during time periods where the moon's illumination of the scene is high. This limits their usage to usually a 7 days before or after a new moon (about 50% of the lunar cycle). Similarly because the radiation emitted by Milky Seas is close to the noise floor of the VIIRS DNB they can be difficult to locate in non-nadir pixels. When accounting for cloud cover a sizeable fraction of Milky Sea events may be unobservable to low-light imagers.
+
+| ![](./MEDIA/NASA_WORLDVIEW_2019_JAVA.gif) |
 | :--: |
-| The original Milky Sea detection from a low light imager, in this case the Defense Meteorological Satellite Program's Operational Line Scanner (DMSP OLS). Panels A-C show unfiltered DMSP OLS imagery and panels D-F show those same images but filtered and zoomed in. Taken from [Miller et al. 2005.](https://www.pnas.org/doi/10.1073/pnas.2207612119) |
+| <div align='justify'> VIIRS DNB imagery of a Milky Sea that occurred near Java during July-September 2019.  </div> |
 
-While the DMSP OLS was capable of viewing Milky Seas it was under favorable conditions and knowing when and where to look based on in-situ encounters. The Visual Infrared Radiometer Suite's (VIIRS) Day/Night Band (DNB), the next generation of low-light imager, greatly expanded the ability to locate and study Milky Seas remotely following its launch in 2011 aboard the satellite Suomi-NPP. Although like its predecessor the VIIRS DNB can only view Milky Seas during time periods where the moon's illumination is relatively low (typically within 7-8 days of the new moon phase of its cycle).
+There are many open questions regarding Milky Seas, namely which specific organism drives the luminescence, what are the prevailing water characteristics in which they form, at what depths in the ocean column do they occur, how do they maintain bacteiral quorum sensing for days to months at a time, and what causes them to dissipate.
 
-With the expanded ability to locate and study Milky Seas [Miller et al. 2011](https://www.nature.com/articles/s41598-021-94823-z)
+The answer to many of these questions is dependent on sampling the physical properties of the water within a Milky Sea. Based on both historical encounters and satellite detections of Milky Seas there may only be 1 event a year on average, and this Milky Sea could occur during either boreal summer or winter in in the northern Indian Ocean or the Maritime Continent regions. The success of any potential field campaign would be contingent on the ability to reliably predict when and where a Milky Sea will occur.
+
+Towards the ability to predict Milky Seas we developed a simple predictive model to serve as a first attempt at Milky Sea forecasting. Given the spatial scale of Milky Seas and their connection to the monsoon we assumed that the prevailing conditions for a Milky Sea tend to occur when the nutrient availability within the mixed layer is high. If nutrient availability is high then there is a proliferation of phytoplankton and detritus which could serve as a substrate for the bacteria to grow on.
+
+The island of Java is one of the main historical hotspots of Milky Sea sightings and is the location of the largest known Milky Sea event in the satellite record (July-September 2019). Like many of the islands within the Maritime Continent Java sits at the nexus of several large scale atmospheric and oceanic phenomena meaning that there are several possible sources of predictibility which would need to be explored.
+
+| ![](./MEDIA/Region_Of_Interst.png) |
+| :--: |
+| <div align='justify'>  Outline of the region of interest and predictions for our predictive model. </div> |
+
+We only considered large scale atmospheric and oceanic phenomena which either directly impact upwelling/downwelling and/or nutrient import and export out of our region of interest. The phenomena we identified are the Madden-Julian Oscillation (MJO), El Niño Southern Oscillation (ENSO), the Indian-Ocean Dipole (IOD), the Indian/South Asian Monsoon, the Indo-Australian Monsoon, the Indonesian Throughflow, the South Java Current, and coastally trapped kelvin waves initiated via Wyrtki Jets.
+
+Of those phenomena 5 have already existing and well used indices and/or are seasonally occurring, the MJO, ENSO, IOD, Indian Monsoon, and the Indo-Australian Monsoon. Like many phenomena within the Earth System all 5 of these interact with one another and depending on their individual states can alter the teleconnections and direct impacts of the others. For the sake of simplicity our model assumes these interactions are negligible.
+
+Our model works by assigning each day of the year between January 1st, 2012 and December 31st, 2021 a value in the range [-5, 5], the higher the number the more potential for upwelling and nutrient import. These numbers were assigned based on the state of our 5 sources of predictibility, if those sources were in the correct state to promote upwelling or nutrient import then the value assigned would be increased by 1, if in the wrong state and instead downwelling or nutrient export is promoted then it is decreased by 1, for neutral states there is no change in a days assigned value.
+
+Doing this for our time period of interests yields the distribution of prescribed values shown below. Given the simplicity of our index we considered days where the predicted value was 3 or greater as having the potential for a Milky Sea. As a sanity check this correctly predicts the only known Milky Sea near Java between 2012 and 2021, (July-September 2019).
+
+| ![](./MEDIA/index_distirbution.png) |
+| :--: |
+| <div align='justify'> Distribution of upwelling/nutrient import potential as predicted by our simple model. The higher the value the higher the potetial for more upwelling or nutrient import.  </div> |
+
+When looking only at time periods where the index was at 3 or greater for an extended period of time yields 11 possible time periods for a Milky Sea. Timelines of the values predicted by the index with a 20-day smooth applied are shown below as well as the time periods identified by our model as likely to contain a Milky Sea.
+
+| ![](./MEDIA/Index_Timeline.png) |
+| :--: |
+| <div align='justify'> Timeline of values predicted by our simple model for 2012-2021 with a 20-day smooth applied to the data. </div> |
+
+For the time periods identified as likely to contain a Milky Sea according to our model and are not known to already contain a Milky Sea event (10 out of 11 time periods) VIIRS DNB imagery was manually examined for the presence of a Milky Sea. During this process a new Milky Sea was discovered during August 2017. Below is a loop of VIIRS DNB imagery of that event.
+
+| ![](./MEDIA/2017_SquareOnly_GIF.gif) |
+| :--: |
+| <div align='justify'> VIIRS DNB imagery of the Milky Sea found with the aid of our predictive model during late August 2017. The red box outlines the model on frames where it is visible.  </div> |
+
+This is the first time a Milky Sea event has been predicted, and represents a critical first step towards an expedition to sample the waters within a Milky Sea. Future work will focus on a more refined model that considers first order interactions and novel techniques to automatically detect Milky Seas within VIIRS DNB data.
 
 
 ## First Hand Accounts
